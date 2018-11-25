@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-25T21:26:17+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Alexandra/Desktop/Универ/КИЛИ/Задание по созданию корпуса/Видео/Итог/Moscow_YRW1940_2.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../Видео/Итог/Moscow_YRW1940_2.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b6f5dd66-ac36-42e0-a73d-af0d01e5542a</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">7</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="53930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="54690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="54940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="57310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="57490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="60430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="61675"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="66040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="66510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="69600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="69880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="70510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="71530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="73970"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="ADN" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="text" PARTICIPANT="YRW" TIER_ID="YRW@ speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>в подтексте</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>ваше дело - только поднять конечности</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>а дальше уж и без вас как-нибудь разберутся</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>председатель собрания весь воплощение объективности просит голосовать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>кто за то чтобы предоставить квартиру войновичу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>кто против</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>за семьдесят пять против три</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ADN" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="YRW" TIER_ID="YRW@ gestures"/>
+    <TIER ANNOTATOR="ADN" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="gesture-meaning" PARENT_REF="YRW@ gestures" PARTICIPANT="YRW" TIER_ID="YRW@ gesture-meaning"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture-meaning" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
