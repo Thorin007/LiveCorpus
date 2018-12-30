@@ -1,0 +1,426 @@
+# newpar
+# sent_id = 1
+# text = ﻿ # time_begin = 07:56
+1	﻿	﻿	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n
+2	#	#	PUNCT	_	_	1	punct	_	_
+3	time_begin	time_begiн-лат	NOUN	_	_	1	nmod	_	_
+4	=	=	SYM	_	_	3	nmod	_	_
+5	07	07	NUM	_	_	4	nummod	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	56	56	NUM	_	_	5	nummod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 2
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 3
+# text = ну все равно ассоциация вп...
+1	ну	ну	PART	_	_	5	parataxis	_	_
+2	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	advmod	_	_
+3	равно	равный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	2	fixed	_	_
+4	ассоциация	ассоциация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	вп.	вподобный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 4
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 5
+# text = первая именно такая как...
+1	первая	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	именно	именно	PART	_	_	3	advmod	_	_
+3	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	как	как	ADV	_	Degree=Pos	3	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 6
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 7
+# text = как...
+1	как	как	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 8
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 9
+# text = как будто / папа пришел домой с работы раньше времени
+1	как	как	SCONJ	_	_	5	mark	_	_
+2	будто	будто	PART	_	_	1	fixed	_	_
+3	/	/	PUNCT	_	_	1	punct	_	_
+4	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	пришел	прийти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	домой	домой	ADV	_	Degree=Pos	5	advmod	_	_
+7	с	с	ADP	_	_	8	case	_	_
+8	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	obl	_	_
+9	раньше	ранее	ADV	_	Degree=Cmp	5	advmod	_	_
+10	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 10
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 11
+# text = а там
+1	а	а	CCONJ	_	_	2	cc	_	_
+2	там	там	ADV	_	Degree=Pos	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 12
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 13
+# text = дочка а у ней парень приходил
+1	дочка	дочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+2	а	а	CCONJ	_	_	6	cc	_	_
+3	у	у	ADP	_	_	4	case	_	_
+4	ней	она	PRON	_	Case=Loc|Gender=Fem|Number=Sing|Person=3	6	obl	_	_
+5	парень	парень	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	приходил	приходить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 14
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 15
+# text = и он их с...
+1	и	и	CCONJ	_	_	3	cc	_	_
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+3	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	0	root	_	_
+4	с	с	ADP	_	_	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 16
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 17
+# text = заметил из-за этого страшно взъярился дочка кричит своему парню беги говорит беги
+1	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	из-за	из-за	ADP	_	_	3	case	_	_
+3	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	obl	_	_
+4	страшно	страшно	ADV	_	Degree=Pos	5	advmod	_	_
+5	взъярился	взъяриться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	xcomp	_	_
+6	дочка	дочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	кричит	кричать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	ccomp	_	_
+8	своему	свой	DET	_	Case=Dat|Gender=Masc|Number=Sing	9	det	_	_
+9	парню	парень	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	_
+10	беги	бег	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obl	_	_
+11	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	nsubj	_	_
+12	беги	бег	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 18
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 19
+# text = а у самой / бюстгальтер на какой-то палке висит
+1	а	а	CCONJ	_	_	9	cc	_	_
+2	у	у	ADP	_	_	5	case	_	_
+3	самой	сам	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+4	/	/	PUNCT	_	_	3	punct	_	_
+5	бюстгальтер	бюстгальтер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	obl	_	_
+6	на	на	ADP	_	_	8	case	_	_
+7	какой-то	какой-то	DET	_	Case=Loc|Gender=Fem|Number=Sing	8	det	_	_
+8	палке	палка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	9	obl	_	_
+9	висит	висеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 20
+# text = @YRW@
+1	@YRW@	@YRW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 21
+# text = ну ты уж так рассказал что тут наверное найти нетрудно будет сейчас
+1	ну	ну	PART	_	_	2	discourse	_	_
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	5	nsubj	_	_
+3	уж	уж	PART	_	_	4	advmod	_	_
+4	так	так	ADV	_	Degree=Pos	5	advmod	_	_
+5	рассказал	рассказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	что	что	PRON	_	Case=Acc	5	obj	_	_
+7	тут	тут	ADV	_	Degree=Pos	12	advmod	_	_
+8	наверное	наверное	ADV	_	Degree=Pos	12	parataxis	_	_
+9	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	csubj	_	_
+10	нетрудно	нетрудный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	12	parataxis	_	_
+11	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
+12	сейчас	сейчас	ADV	_	Degree=Pos	5	advmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 22
+# text = @ADN@
+1	@ADN@	@ADN@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 23
+# text = это лампочки [смеется]
+1	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	лампочки	лампочка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
+3	[	[	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	смеется	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	2	parataxis	_	SpaceAfter=No
+5	]	]	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 24
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 25
+# text = я так и...
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	0	root	_	_
+2	так	так	ADV	_	Degree=Pos	1	advmod	_	_
+3	и	и	PART	_	_	2	fixed	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 26
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 27
+# text = я в курсе но я [смеетс¤]...
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	курсе	курс	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
+4	но	но	CCONJ	_	_	5	cc	_	_
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	3	conj	_	_
+6	[	[	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	смеетс	смеетс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
+8	¤	¤	SYM	_	_	7	nmod	_	SpaceAfter=No
+9	]	]	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 28
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 29
+# text = когда я в первый раз посмотрел / это то что я увидел
+1	когда	когда	SCONJ	_	_	6	mark	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+3	в	в	ADP	_	_	5	case	_	_
+4	первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+6	посмотрел	смотреть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	_
+7	/	/	PUNCT	_	_	6	punct	_	_
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+9	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	mark	_	_
+10	что	что	SCONJ	_	_	9	fixed	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	12	nsubj	_	_
+12	увидел	видеть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 30
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 31
+# text = ничем не могу помочь
+1	ничем	ничто	PRON	_	Case=Ins	4	obl	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	помочь	помочь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 32
+# text = @YRW@
+1	@YRW@	@YRW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 33
+# text = кто кому кричит парень ей или она парню
+1	кто	кто	PRON	_	Case=Nom	3	nsubj	_	_
+2	кому	кто	PRON	_	Case=Dat	3	iobj	_	_
+3	кричит	кричать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	парень	парень	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+5	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3	3	iobj	_	_
+6	или	или	CCONJ	_	_	7	cc	_	_
+7	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	conj	_	_
+8	парню	парень	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 34
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 35
+# text = нет она / кричит парню которого там даже не видно он уже бежит а она ему кричит быстрее беги / а то папа злой
+1	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
+3	/	/	PUNCT	_	_	4	punct	_	_
+4	кричит	кричать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+5	парню	парень	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+6	которого	который	PRON	_	Case=Gen	5	nmod	_	_
+7	там	там	ADV	_	Degree=Pos	4	advmod	_	_
+8	даже	даже	PART	_	_	10	advmod	_	_
+9	не	не	PART	_	_	10	advmod	_	_
+10	видно	видно	ADV	_	Degree=Pos	13	advmod	_	_
+11	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nsubj	_	_
+12	уже	уже	ADV	_	Degree=Pos	13	advmod	_	_
+13	бежит	бежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	_
+14	а	а	CCONJ	_	_	17	cc	_	_
+15	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	nsubj	_	_
+16	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	17	iobj	_	_
+17	кричит	кричать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+18	быстрее	быстро	ADV	_	Degree=Cmp	17	advmod	_	_
+19	беги	бег	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	obl	_	_
+20	/	/	PUNCT	_	_	23	punct	_	_
+21	а	а	CCONJ	_	_	23	cc	_	_
+22	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	21	fixed	_	_
+23	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	conj	_	_
+24	злой	злой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 36
+# text = @YRW@
+1	@YRW@	@YRW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 37
+# text = ага ага
+1	ага	ага	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	ага	ага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 38
+# text = @YRW@
+1	@YRW@	@YRW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 39
+# text = ага ага ага
+1	ага	ага	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	ага	ага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	ага	ага	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 40
+# text = @YRW@
+1	@YRW@	@YRW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 41
+# text = ну ты даешь такого / даже не видно она только одна тут
+1	ну	ну	PART	_	_	3	parataxis	_	_
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	_
+3	даешь	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	_
+4	такого	такой	DET	_	Case=Acc|Gender=Masc|Number=Sing	8	det	_	_
+5	/	/	PUNCT	_	_	8	punct	_	_
+6	даже	даже	PART	_	_	8	advmod	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	видно	видно	ADV	_	Degree=Pos	0	root	_	_
+9	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nsubj	_	_
+10	только	только	PART	_	_	11	advmod	_	_
+11	одна	один	DET	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	obl	_	_
+12	тут	тут	ADV	_	Degree=Pos	11	advmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 42
+# text = @YRW@
+1	@YRW@	@YRW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 43
+# text = ну / вот это что ли
+1	ну	ну	PART	_	_	5	parataxis	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	вот	вот	PART	_	_	4	advmod	_	_
+4	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+5	что	что	PRON	_	Case=Acc	0	root	_	_
+6	ли	ли	PART	_	_	5	advmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 44
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 45
+# text = бюстгальтер не забудь
+1	бюстгальтер	бюстгальтер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	забудь	забыть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 46
+# text = @YRW@
+1	@YRW@	@YRW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 47
+# text = да нет тут нигде бюст...
+1	да	да	CCONJ	_	_	2	cc	_	_
+2	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	тут	тут	ADV	_	Degree=Pos	2	advmod	_	_
+4	нигде	нигде	ADV	_	Degree=Pos	5	obl	_	_
+5	бюст.	бюсто	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 48
+# text = @YRW@
+1	@YRW@	@YRW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 49
+# text = ни одного
+1	ни	ни	PART	_	_	2	advmod	_	_
+2	одного	один	NUM	_	Case=Gen|Gender=Masc	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 50
+# text = @RYW@
+1	@RYW@	@RYW@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 51
+# text = согласен / похожие предметы поищи я не знаю
+1	согласен	согласный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	8	obl	_	_
+2	/	/	PUNCT	_	_	8	punct	_	_
+3	похожие	похожий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	предметы	предмет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	8	obl	_	_
+5	поищи	поищь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	8	nsubj	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+
